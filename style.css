@@ -1,0 +1,108 @@
+html {
+    
+}
+
+#infro {
+    font-family: cursive;
+    text-align: center;
+    margin: 70px 0 20px 0;
+}
+
+#navbar {
+    display: flex;
+    margin-top: 30px;
+    padding-top:20px;
+    padding-bottom: 100px;
+    margin:0 auto;
+}
+
+#Worldpeas {
+    margin-right: 200px;
+    margin-left: -120px;
+    padding-left: 50px;
+    color: rgb(2, 134, 2);
+    font-size: large;
+}
+
+#browse-our-shop2 {
+    background-color: rgb(2, 54, 2);
+    color: white;
+    border-radius: 5px;
+    border: 50px;
+    color: whit;
+    text-decoration: none;
+    border: 10px solid rgb(2, 54, 2);
+
+}
+
+#browse-our-shop {
+    text-align: center;
+    margin: 0 auto 90px;
+
+}
+
+#navbar2 {
+    font-size: small;
+    margin: 0 10px;
+    margin: auto;
+    float: right;
+    font: 1rem sans-serif;   
+}
+
+#about {
+    display:flex;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    font-family: serif;
+}
+
+#description {
+    width: 100%;
+    letter-spacing: 0.1px;
+}
+
+#team {
+    width: 250%;
+    
+
+}
+
+#img {
+    display: flex;
+    object-fit: cover;
+    max-width: 800px;
+    margin: 0 auto 90px;
+    padding-left: 0px;
+
+}
+
+#img1 {
+    width: 50%;
+    height: 500px;
+    margin-right: 20px;
+}
+
+#img2 {
+    width: 120%;
+    height: 300px;
+    padding: 100px 0 00px 0;
+}
+#footer {
+    color: white;
+    background-color: black;
+    border: 10px solid black;
+    text-align: center;
+    border-radius: 8px;
+
+    font-size: small;
+}
+button {
+    background-color: rgb(2, 66, 2);
+    color: white;
+    border-radius: 8px;
+}
+#navber3 {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
